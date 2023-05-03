@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tech Help</title>
+</head>
+<body>
+  <h1>Tech Help</h1>
+  <h2>Frequently Asked Questions</h2>
+  <ul>
+    <li>
+      <h3>My computer is running slowly. What can I do?</h3>
+      <p>There are a few things you can do to speed up your computer. First, make sure you have all of the latest updates installed. You can do this by going to the Control Panel and clicking on "Windows Update." Second, try clearing out any unnecessary files or programs that are taking up space on your hard drive. You can do this by going to the Start menu and typing "Disk Cleanup." Third, consider upgrading your RAM. More RAM will allow your computer to run more programs at once without slowing down.</p>
+    </li>
+    <li>
+      <h3>My internet is not working. What can I do?</h3>
+      <p>There are a few things you can do to troubleshoot your internet connection. First, make sure that your modem and router are turned on and plugged in correctly. You can also try restarting your modem and router by unplugging them from the power outlet for 30 seconds and then plugging them back in. If your internet is still not working, you can try contacting your internet service provider.</p>
+    </li>
+    <li>
+      <h3>My printer is not working. What can I do?</h3>
+      <p>There are a few things you can do to troubleshoot your printer. First, make sure that your printer is turned on and connected to your computer. You can also try restarting your printer by unplugging it from the power outlet for 30 seconds and then plugging it back in. If your printer is still not working, you can try cleaning the print heads. You can find instructions on how to do this in your printer's manual. If your printer is still not working, you can try contacting the printer manufacturer.</p>
+    </li>
+    <li>
+      <h3>I forgot my password. What can I do?</h3>
+      <p>If you forgot your password, you can usually reset it by going to the website or app where you created the account. You will be asked to enter your email address or username, and then you will receive an email or message with instructions on how to reset your password.</p>
+    </li>
+    <li>
+      <h3>I need help with something else.</h3>
+      <p>If you need help with something else, you can contact us for assistance. We are available 24/7 by phone, email, or live chat.</p>
+    </li>
+  </ul>
+</body>
+</html>
